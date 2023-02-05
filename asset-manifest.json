@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/RandomColorGenerator/static/css/main.1b3d3f2c.css",
-    "main.js": "/RandomColorGenerator/static/js/main.fbeb4b58.js",
+    "main.js": "/RandomColorGenerator/static/js/main.f8c406e8.js",
     "static/js/787.635aedaa.chunk.js": "/RandomColorGenerator/static/js/787.635aedaa.chunk.js",
     "static/media/diamond .png": "/RandomColorGenerator/static/media/diamond .9898e56e8ecef8d6a2ef.png",
     "index.html": "/RandomColorGenerator/index.html",
     "main.1b3d3f2c.css.map": "/RandomColorGenerator/static/css/main.1b3d3f2c.css.map",
-    "main.fbeb4b58.js.map": "/RandomColorGenerator/static/js/main.fbeb4b58.js.map",
+    "main.f8c406e8.js.map": "/RandomColorGenerator/static/js/main.f8c406e8.js.map",
     "787.635aedaa.chunk.js.map": "/RandomColorGenerator/static/js/787.635aedaa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b3d3f2c.css",
-    "static/js/main.fbeb4b58.js"
+    "static/js/main.f8c406e8.js"
   ]
 }
