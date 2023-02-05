@@ -18,7 +18,7 @@ const Header = () => {
         <div class="navbar">
           <div class="logo">
             <img src={IMG1} alt="" />
-            <h4>Spacify</h4>
+            <h4>Color it !</h4>
           </div>
           <div class="nav">
             <ul id="ok" class="ok">
